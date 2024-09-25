@@ -1,5 +1,5 @@
 # conftest.py
-import pytest
+import pytest # type: ignore
 from selenium import webdriver
 
 
